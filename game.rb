@@ -1,5 +1,4 @@
 # Tic-tac-toe game written by Carli Martinez on August 5, 2019
-# Written for Politech
 # Ruby version 2.5.3
 # To run this program: $ ruby game.rb
 
